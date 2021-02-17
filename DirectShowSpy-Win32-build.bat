@@ -1,0 +1,1 @@
+rundll32 DirectShowSpy-win32.dll,DoGraphBuilderCallbackPropertySheetModal
